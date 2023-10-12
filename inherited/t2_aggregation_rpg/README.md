@@ -1,0 +1,2 @@
+### Ce script reprend la table de correspondance utilisée pour simplifier thématiquement (et automatiquement) le Registre Parcellaire Graphique Agricole en vue de calculer la Trame Verte et Bleue.
+Il a été élaboré afin de mettre en page le RPG pour des représentations cartographiques
